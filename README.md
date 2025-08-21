@@ -1,9 +1,17 @@
-
 # 🎁 Amigo Secreto
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+<p align="center">
+  <img src="assets/demo.gif" alt="Amigo Secreto - Demo" width="600"/>
+</p>
+
+![Status](https://img.shields.io/badge/Status-Finished-brightgreen?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
+![GitHub Pages](https://img.shields.io/badge/Demo-GitHub%20Pages-blueviolet?style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Oracle ONE](https://img.shields.io/badge/Oracle%20ONE%20Next%20Education-E43224?style=flat-square&logo=oracle&logoColor=white)
+
 
 ## 📋 Descripción del Proyecto
 
@@ -86,15 +94,6 @@ amigo-secreto/
 --color-button-hover: #e55720 /* Naranja hover */
 ```
 
-## 🌟 Capturas de Pantalla
-
-> **Nota**: La aplicación presenta un diseño moderno con:
-> - Header con título estilizado y logo representativo
-> - Sección de entrada con campos intuitivos
-> - Lista dinámica de participantes
-> - Botón de sorteo con iconografía clara
-> - Resultados destacados visualmente
-
 ## 🔮 Futuras Mejoras
 
 - [ ] 💾 Persistencia de datos en localStorage
@@ -104,15 +103,15 @@ amigo-secreto/
 - [ ] 🔄 Opción para eliminar participantes
 - [ ] 🎭 Modo de sorteo con restricciones (evitar parejas)
 
-## 🤝 Contribuciones
+## 🌐 Publicación en GitHub Pages
 
-¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar la aplicación:
+Este proyecto está disponible en **GitHub Pages**.  
+Para publicar el tuyo:
 
-1. Fork el proyecto
-2. Crea una branch para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la branch (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
+1. Sube el proyecto a un repositorio en GitHub.  
+2. Ve a **Settings → Pages**.  
+3. En **Branch**, selecciona `main` y carpeta `/ (root)`.  
+4. Guarda y espera unos segundos.  
 
 ## 📄 Licencia
 
@@ -121,10 +120,6 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 ## 👨‍💻 Autor
 
 **Andrés Camilo Martínez Vanegas**
-
-- 💼 [LinkedIn](https://linkedin.com/in/tu-perfil) *(opcional)*
-- 🐙 [GitHub](https://github.com/tu-usuario) *(opcional)*
-- 📧 Email: tu-email@ejemplo.com *(opcional)*
 
 ---
 
