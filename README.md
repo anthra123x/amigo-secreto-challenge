@@ -3,6 +3,7 @@
 <p align="center">
   <img src="assets/demo.gif" alt="Amigo Secreto - Demo" width="600"/>
 </p>
+🔗 **Prueba la aplicación aquí:** [Amigo Secreto en GitHub Pages](https://anthra123x.github.io/amigo-secreto-challenge/)
 
 ![Status](https://img.shields.io/badge/Status-Finished-brightgreen?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
