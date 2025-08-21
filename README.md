@@ -3,7 +3,6 @@
 <p align="center">
   <img src="assets/demo.gif" alt="Amigo Secreto - Demo" width="600"/>
 </p>
-🔗 **Prueba la aplicación aquí:** [Amigo Secreto en GitHub Pages](https://anthra123x.github.io/amigo-secreto-challenge/)
 
 ![Status](https://img.shields.io/badge/Status-Finished-brightgreen?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
@@ -13,6 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Oracle ONE](https://img.shields.io/badge/Oracle%20ONE%20Next%20Education-E43224?style=flat-square&logo=oracle&logoColor=white)
 
+🔗 **Prueba la aplicación aquí**: [Amigo Secreto en GitHub Pages](https://anthra123x.github.io/amigo-secreto-challenge/)
 
 ## 📋 Descripción del Proyecto
 
